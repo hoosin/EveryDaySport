@@ -28,7 +28,9 @@
 ```
 .
 ├── table                 … 锻炼签到表
-├── guide                 … 健身指南（欢迎大家 pull request ，分享更多经验）
+├── guide                 … 健身指南
 └── readme.md             … 说明文档
+
+* 欢迎大家 pull request ，分享更多经验。
 ```
 
