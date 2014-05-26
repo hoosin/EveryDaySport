@@ -26,7 +26,7 @@
 ### 五、功能
 
 * 签到表[入口](/table)
-* 不想 `fork` ,你可以 `Star` 在这个项目的 `issue` 管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1)， 感谢*[akfish](https://github.com/akfish)* 
+* 不想 `fork` ,你可以 `Star` ,在这个项目的 `issue` 管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1)， 感谢*[akfish](https://github.com/akfish)* 
 
 
 ### 六、目录
