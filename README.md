@@ -27,6 +27,7 @@
 
 * 签到表[入口](/table)
 * 不想 `fork` ,你可以 `Star` ,在这个项目的 `issue` 管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1)， 感谢*[akfish](https://github.com/akfish)* 
+* [任务领取/结对监督模式概念示例](https://github.com/hoosin/EveryDaySport/issues/2) 初步方案，欢迎加入探讨。
 
 
 ### 六、目录
