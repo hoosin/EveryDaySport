@@ -23,7 +23,13 @@
 
 作为一个有追求的程序员，你就应该爱自己，岂能被身体困扰？我希望你也加入这个计划来，告别亚健康！当然要是可以的话，我希望你在进行这个计划的同时配合 [天天写代码计划](https://github.com/sofish/everyday) 一起去完成，劳逸结合。
 
-### 五、目录
+### 五、功能
+
+* 签到表[入口](/table)
+* 用issue管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1) 感谢*[akfish](https://github.com/akfish)*
+
+
+### 六、目录
 
 ```
 .
