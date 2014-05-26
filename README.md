@@ -26,7 +26,7 @@
 ### 五、功能
 
 * 签到表[入口](/table)
-* 用issue管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1) 感谢*[akfish](https://github.com/akfish)*
+* Star的朋友用issue管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1) 感谢*[akfish](https://github.com/akfish)* 
 
 
 ### 六、目录
