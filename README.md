@@ -1,4 +1,4 @@
-##天天锻炼计划
+﻿##天天锻炼计划
 
 ### 一、写在最前面
 
@@ -40,3 +40,5 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 └── readme.md             … 说明文档
 ```
 
+学习git
+随便写的，不必接收，
