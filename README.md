@@ -40,3 +40,6 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 └── readme.md             … 说明文档
 ```
 
+### 七、更改测试
+对fork过来的版本做修改，成为新版本
+
