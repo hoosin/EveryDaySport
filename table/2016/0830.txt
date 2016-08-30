@@ -1,0 +1,24 @@
+一天学会简单的git教程
+
+git init 初始化一个git仓库
+git add 文件名  可多次使用 添加多个文件
+git commit -m “说明”   一次可以提交多个文件
+git status 掌握仓库当前的状态
+git diff   查看不同
+git reset --hard HEAD    返回上个（或多个或指定的）commit
+git checkout --文件    销毁工作区
+git reset HEAD 	文件   销毁暂存区--》工作区
+git remote add origin git@github.com：path/repo-name.git  远程库与本地库建立连接，需要配置ssh秘钥
+ps:ssh 协议不需要每次输入用户名与密码   https协议需要
+git push -u origin master   第一次推送
+git push origin master 简单推送
+git clone git@github.com:path/repo-name.git  克隆库
+git checkout -b dev == git branch dev + git checkout dev  新建并转到一个branch
+git merge dev   合并指定分支到当前分支
+git branch -d dev   删除分支
+           -D       强制删除分支
+git stash 保存工作现场
+git stash list 展示
+git stash apply 恢复
+                            ==git stash pop 恢复加删除
+git stash drop  删除
