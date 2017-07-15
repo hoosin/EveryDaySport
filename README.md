@@ -31,5 +31,6 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 * [任务领取/结对监督模式概念示例](https://github.com/hoosin/EveryDaySport/issues/2) 初步方案，欢迎加入探讨。
 
 我改一下没啥事儿吧
+柔柔弱弱若若若
 ```
 
