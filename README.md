@@ -1,4 +1,4 @@
-## 天天锻炼计划
+﻿## 天天锻炼计划
 
 ### 一、写在最前面
 
@@ -30,13 +30,6 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 * 不想 `fork` ,你可以 `Star` ,在这个项目的 `issue` 管理健身计划[示例](https://github.com/hoosin/EveryDaySport/issues/1)，你可以直接拿这个模板[issues-template](/table/issues-template/readme.md)  感谢*[akfish](https://github.com/akfish)* 
 * [任务领取/结对监督模式概念示例](https://github.com/hoosin/EveryDaySport/issues/2) 初步方案，欢迎加入探讨。
 
-
-### 六、目录
-
-```
-.
-├── table                 … 锻炼签到表 （记得每天运动完，在这里签到哦！）
-├── guide                 … 健身指南   （欢迎大家 pull request ，分享更多健身经验。）
-└── readme.md             … 说明文档
+我改一下没啥事儿吧
 ```
 
