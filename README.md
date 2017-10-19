@@ -26,7 +26,7 @@ EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天
 
 ### 五、记录方法
 
-* 签到表[入口](/table)
+* 签到表 [>入口<](/table)
 * 不想 `fork` ,你可以 `Star` ,在这个项目的 `issue` 管理健身计划 [示例](https://github.com/hoosin/EveryDaySport/issues/1)，你可以直接拿这个模板 [issues-template](/table/issues-template/readme.md)  感谢 [@akfish](https://github.com/akfish)
 * [任务领取/结对监督模式概念示例](https://github.com/hoosin/EveryDaySport/issues/2) 初步方案，欢迎加入探讨。
 
